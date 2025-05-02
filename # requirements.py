@@ -1,0 +1,4 @@
+# requirements
+numpy==1.21.0
+opencv-python==4.5.3.56
+face-recognition==1.3.0
